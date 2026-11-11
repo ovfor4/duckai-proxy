@@ -18,7 +18,7 @@ export const config = {
     duckaiReasoningMode: '"reasoning"', // enale reasoning for gpt-5 mini
     duckaiReasoningUsed: 'true', // same
     duckaiHasAgreedToTerms: 'true', // disable duck.ai ToS pop-up
-    //preferredDuckaiModel: '"1"', // Claude Haiku 4.5
+    preferredDuckaiModel: '"295"', // Claude Haiku 5.5
   },
 
   bannerHtml: bannerHtml,
